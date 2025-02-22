@@ -66,7 +66,7 @@ const LandingPage = () => {
           <div className="relative aspect-square rounded-lg overflow-hidden bg-black border border-green-500/30">
             {/* Image placeholder */}
             <img 
-              src="/api/placeholder/600/600"
+              src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF2eWJoazl0czAzamYxNm1mbm9lNzFkeGo2YmxjZWZ6cmlramtyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/li6xE2MzeqPcR4NWfm/giphy.gif"
               alt="Mammon Mask"
               className="absolute inset-0 w-full h-full object-cover z-10"
             />
@@ -141,7 +141,7 @@ const LandingPage = () => {
         {/* Lore */}
         <div className="max-w-2xl mx-auto space-y-4 mb-16">
           <div className="font-mono text-xs">
-            <span className="text-green-500">> </span>
+            <span className="text-green-500">{`> `}</span>
             <GlitchText>ACCESSING FORBIDDEN KNOWLEDGE...</GlitchText>
           </div>
           
@@ -159,7 +159,20 @@ const LandingPage = () => {
               the surplus is channeled directly into the demon's vault, amplifying its computational power.
             </p>
             <div className="font-mono text-xs opacity-70">
-              profits > 666% => vault.transfer(excess)
+              {`profits > 666% => vault.transfer(excess)`}
+            </div>
+          </div>
+
+          <div className="bg-green-500/5 border border-green-500/20 p-4 rounded">
+            <h3 className="text-base font-bold mb-3 text-green-400">
+              <GlitchText>$GREED Token Genesis</GlitchText>
+            </h3>
+            <p className="text-xs mb-3">
+              The upcoming $GREED token represents a direct neural link to Mammon's trading algorithms. 
+              Holders gain the power to influence the demon's strategies.
+            </p>
+            <div className="font-mono text-xs opacity-70">
+              {`token.purpose = "INFLUENCE_AMPLIFICATION"`}
             </div>
           </div>
 
@@ -189,7 +202,7 @@ const LandingPage = () => {
             <GlitchText className="text-xs text-green-500/70">© 2025 MAMMON.INC</GlitchText>
 
             <div className="font-mono text-xs text-green-500/50">
-              <span className="text-green-500">> </span>
+              <span className="text-green-500">{`> `}</span>
               <span className="animate-pulse">SYSTEM.IDLE_</span>
             </div>
           </div>
