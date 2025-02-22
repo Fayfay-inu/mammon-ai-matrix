@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 255, 0;
+  --background-start-rgb: 0, 0, 0;
+  --background-end-rgb: 0, 0, 0;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgb(var(--background-end-rgb))
+  )
+  rgb(var(--background-start-rgb));
+}
+
+@keyframes glitch {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    transform: translate(-2px, -2px);
+  }
+  60% {
+    transform: translate(2px, 2px);
+  }
+  80% {
+    transform: translate(2px, -2px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+@keyframes matrix-fall-0 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-1 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-2 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-3 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-4 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-5 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-6 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-7 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-8 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+@keyframes matrix-fall-9 { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
