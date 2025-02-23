@@ -190,7 +190,7 @@ const LandingPage = () => {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--------------------------+<br />
 
               Mammon  Third Eye  Kundalini  Shakti  Sacred  Power  Shee Nazar Do <br />
-              br >
+          
               CA: 7McvSppQMLp5zioqCMhMGkwC8nJCETdZPj1HQ4axpump
               </pre>
 
