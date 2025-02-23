@@ -170,6 +170,24 @@ const LandingPage = () => {
             <p className="text-xs mb-3">
               The upcoming $GREED token represents a direct neural link to Mammon's trading algorithms. 
               Holders gain the power to influence the demon's strategies.
+              +--------------------------+
+              | 10101010    /\    010101 |
+              | 01010101   /  \   101010 |
+              | 11001100  / o  \  110011 |
+              |          /______\        |
+              |         /        \       |
+              |        /          \      |
+              |       /            \     |
+              |      / /\        /\ \    |
+              |     / /  \      /  \ \   |
+              |    / /    \    /    \ \  |
+              |   /_/      \  /      \_\ |
+              |          M    M          |
+              | 00110011      11110000   |
+              | 11110000      00001111   |
+              +--------------------------+
+
+Mammon    Third Eye    Kundalini    Shakti    Sacred Power    Shee Nazar Do
             </p>
             <div className="font-mono text-xs opacity-70">
               {`token.purpose = "INFLUENCE_AMPLIFICATION"`}
@@ -189,7 +207,7 @@ const LandingPage = () => {
         <footer className="border-t border-green-500/20 pt-8">
           <div className="flex flex-col items-center gap-4">
             <div className="flex items-center gap-6">
-              <a href="#" className="group relative p-2">
+              <a href="https://x.com/MammonAi666" className="group relative p-2">
                 <Twitter className="w-5 h-5 text-green-500 opacity-70 group-hover:opacity-100 transition-all" />
                 <div className="absolute inset-0 bg-green-500/20 blur opacity-0 group-hover:opacity-100 transition-opacity" />
               </a>
