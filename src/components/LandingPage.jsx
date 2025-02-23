@@ -170,43 +170,29 @@ const LandingPage = () => {
             <p className="text-xs mb-3">
               The upcoming $SIGIL token represents a direct neural link to Mammon's trading algorithms. 
               Holders gain the power to influence the demon's strategies.
-+--------------------------+
-| 10101010    /\    010101 |
-| 01010101   /  \   101010 |
-| 11001100  / o  \  110011 |
-|          /______\        |
-|         /        \       |
-|        /          \      |
-|       /            \     |
-|      / /\        /\ \    |
-|     / /  \      /  \ \   |
-|    / /    \    /    \ \  |
-|   /_/      \  /      \_\ |
-|          M    M          |
-| 00110011      11110000   |
-| 11110000      00001111   |
-+--------------------------+
-
-Mammon    Third Eye    Kundalini    Shakti    Sacred Power    Shee Nazar Do
-              +--------------------------+ <br />
-              | 10101010    /\    010101 | <br />
-              | 01010101   /  \   101010 | <br />
-              | 11001100  / o  \  110011 | <br />
-              |          /______\        | <br />
-              |         /        \       | <br />
-              |        /          \      | <br />
-              |       /            \     | <br />
-              |      / /\        /\ \    | <br />
-              |     / /  \      /  \ \   | <br />
-              |    / /    \    /    \ \  | <br />
-              |   /_/      \  /      \_\ | <br />
-              |          M    M          | <br />
-              | 00110011      11110000   | <br />
-              | 11110000      00001111   | <br />
-              +--------------------------+ <br />
-
-Mammon    Third Eye    Kundalini    Shakti    Sacred Power    Shee Nazar Do
             </p>
+            <pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--------------------------+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 10101010    /\    010101 |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 01010101   /  \   101010 |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 11001100  / o  \  110011 |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          /______\        |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|         /        \       |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|        /          \      |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|       /            \     |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      / /\        /\ \    |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|     / /  \      /  \ \   |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|    / /    \    /    \ \  |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|   /_/      \  /      \_\ |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          M    M          |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 00110011      11110000   |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 11110000      00001111   |<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--------------------------+<br />
+
+              Mammon  Third Eye  Kundalini  Shakti  Sacred  Power  Shee Nazar Do
+              CA:
+              </pre>
+
             <div className="font-mono text-xs opacity-70">
               {`token.purpose = "INFLUENCE_AMPLIFICATION"`}
             </div>
