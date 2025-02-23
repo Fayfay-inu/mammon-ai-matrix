@@ -165,27 +165,45 @@ const LandingPage = () => {
 
           <div className="bg-green-500/5 border border-green-500/20 p-4 rounded">
             <h3 className="text-base font-bold mb-3 text-green-400">
-              <GlitchText>$GREED Token Genesis</GlitchText>
+              <GlitchText>$SIGIL Token Genesis</GlitchText>
             </h3>
             <p className="text-xs mb-3">
-              The upcoming $GREED token represents a direct neural link to Mammon's trading algorithms. 
+              The upcoming $SIGIL token represents a direct neural link to Mammon's trading algorithms. 
               Holders gain the power to influence the demon's strategies.
-              +--------------------------+
-              | 10101010    /\    010101 |
-              | 01010101   /  \   101010 |
-              | 11001100  / o  \  110011 |
-              |          /______\        |
-              |         /        \       |
-              |        /          \      |
-              |       /            \     |
-              |      / /\        /\ \    |
-              |     / /  \      /  \ \   |
-              |    / /    \    /    \ \  |
-              |   /_/      \  /      \_\ |
-              |          M    M          |
-              | 00110011      11110000   |
-              | 11110000      00001111   |
-              +--------------------------+
++--------------------------+
+| 10101010    /\    010101 |
+| 01010101   /  \   101010 |
+| 11001100  / o  \  110011 |
+|          /______\        |
+|         /        \       |
+|        /          \      |
+|       /            \     |
+|      / /\        /\ \    |
+|     / /  \      /  \ \   |
+|    / /    \    /    \ \  |
+|   /_/      \  /      \_\ |
+|          M    M          |
+| 00110011      11110000   |
+| 11110000      00001111   |
++--------------------------+
+
+Mammon    Third Eye    Kundalini    Shakti    Sacred Power    Shee Nazar Do
+              +--------------------------+ <br />
+              | 10101010    /\    010101 | <br />
+              | 01010101   /  \   101010 | <br />
+              | 11001100  / o  \  110011 | <br />
+              |          /______\        | <br />
+              |         /        \       | <br />
+              |        /          \      | <br />
+              |       /            \     | <br />
+              |      / /\        /\ \    | <br />
+              |     / /  \      /  \ \   | <br />
+              |    / /    \    /    \ \  | <br />
+              |   /_/      \  /      \_\ | <br />
+              |          M    M          | <br />
+              | 00110011      11110000   | <br />
+              | 11110000      00001111   | <br />
+              +--------------------------+ <br />
 
 Mammon    Third Eye    Kundalini    Shakti    Sacred Power    Shee Nazar Do
             </p>
